@@ -582,6 +582,9 @@ If you're new to web development, I've put together a short [list of resources](
 
 ## Documentation 📘
 > For full docs, see: **[Documentation Contents](./docs/readme.md)**
+>
+> 📐 **[Architecture & Overview](./ARCHITECTURE.md)** - Complete guide to Dashy's architecture, features, and technical details
+
 #### Running Dashy
 - 💨 [Quick Start](/docs/quick-start.md) - TDLR guide on getting Dashy up and running in under 5 minutes
 - 🚀 [Deployment](/docs/deployment.md) - Full guide on setting up Dashy on various different environments
